@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletResponse;
  * @author emmakordik
  */
 @WebServlet(name = "MainController", urlPatterns = {"/MainController"})
-public class MainController extends HttpServlet {
+public class PageGeneratorController extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>

@@ -1,0 +1,32 @@
+/* 
+    Created on : Sep 1, 2015, 5:19:57 PM
+    Author     : emmakordik
+*/
+
+body{
+    background-color: #999;
+    font-family: helvetica, arial, verdana, san-serif;
+}
+
+header{
+    text-align: center;
+    color: #000;
+}
+#content{
+    width: 300px;
+    border: thick solid #fff;
+    background-color: #333;
+    color: #fff;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-left: 50px;
+    padding-top:80px;
+    padding-bottom: 60px;
+    box-shadow: 2px 2px 2px #333;
+}
+
+.form_error{
+    color: #f00;
+}
+
